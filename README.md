@@ -3,7 +3,7 @@ Whatsapp Bot brainly search
 
 library : [https://github.com/pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
 # Installation 
-`git clone`
+`git clone https://github.com/diosamuel/Virdina-Brainly.git`
 
 `npm install`
 
