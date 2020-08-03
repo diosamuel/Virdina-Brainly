@@ -6,6 +6,8 @@ library : [https://github.com/pedroslopez/whatsapp-web.js](https://github.com/pe
 
 `npm install`
 
+`npm install whatsapp-web.js`
+
 `node index`
 
 and then qrcode will appear on your terminal
