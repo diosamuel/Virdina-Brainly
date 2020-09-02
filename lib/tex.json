@@ -1,0 +1,5 @@
+{
+	"start":"\\documentclass[12pt]{article}\n\\usepackage{amsmath}\n\\usepackage{amssymb}\n\\usepackage{amsfonts}\n\\usepackage{cancel}\n\\usepackage{color}\n\\usepackage{xcolor}\n\\definecolor{my_custom_green}{HTML}{1f8012}\n\\usepackage[utf8]{inputenc}\n\\thispagestyle{empty}\n\\begin{document}\n\\begin{align*}\n",
+	"content":"",
+	"end":"\\end{align*}\n\\end{document}"
+}
