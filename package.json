@@ -1,22 +1,19 @@
 {
   "name": "bot_brainly",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.2",
+  "description": "whatsapp bot for brainly searching",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["bot","whatsapp","whatsapp-bot"],
+  "author": "Virdio Samuel Saragih @virdiosam",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.20.0",
-    "brainly-scraper": "^1.0.1",
-    "cheerio": "^1.0.0-rc.3",
+    "brainly-scraper": "^1.0.2",
     "colors": "^1.4.0",
     "mathjs": "^7.2.0",
     "node-cron": "^2.0.3",
-    "puppeteer-core": "^5.2.1",
     "qrcode-terminal": "^0.12.0"
   }
 }
