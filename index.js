@@ -199,10 +199,10 @@ client.on('message', message => {
 
     Virdina.createCommand('help', function(msg, res) {
         pesan = ``
-        pesan += `*Haiii kak🤖 👩‍💻*\n*Menu*\n\n💡Brainly Search\n/brainly <pertanyaan> -<jumlah>\n*/brainly rumus mtk -10*`
+        pesan += `*Halo lurrr🤖 👩‍💻*\n*Menu*\n\n💡Brainly Search\n/brainly <pertanyaan> -<jumlah>\n*/brainly rumus mtk -10*`
         pesan += `\n\n\n💡Kalkulator\n_hanya bisa kali(*) bagi(/) tambah(+) kurang(-)_\n/math <angka>\n*/math 100+70/2*`
         pesan += `\n\nAku juga ada loh di telegram t.me/caridibrainly_bot\nJoin channel telegram aku t.me/virdinabot`
-        pesan += "\n\n*Created by @virdiosam*"
+        pesan += "\n\n*Created by @ChillaxX*"
         Virdina.replyMessage(pesan)
     })
 
