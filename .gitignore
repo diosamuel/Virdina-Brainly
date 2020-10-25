@@ -1,5 +1,4 @@
-/.gitignore
 node_modules/
 /session.json
-/brainly.js
 lib/_Virdina.js
+/latex.js
