@@ -65,7 +65,7 @@ const {
 const qrcode = require('qrcode-terminal');
 const brainly = require('./brainly');
 const cron = require('node-cron');
-const Virdina = require('./lib/_Virdina');
+const Virdina = require('./lib/Virdina');
 const colors = require('colors');
 const Math_js = require('mathjs');
 
