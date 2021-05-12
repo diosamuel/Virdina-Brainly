@@ -12,7 +12,7 @@
   "dependencies": {
     "brainly-scraper": "^1.0.2",
     "colors": "^1.4.0",
-    "mathjs": "^7.2.0",
+    "mathjs": "^7.5.1",
     "node-cron": "^2.0.3",
     "qrcode-terminal": "^0.12.0"
   }
